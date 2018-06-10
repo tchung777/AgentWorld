@@ -1,3 +1,5 @@
+;My Agent
+;Thomas Chung   2018    All rights reserved.
 ;This is my implementation for my agent for AgentWorld.
 ;It is a cowardly AI that runs away from predator when they are closed enough
 ;It is a greedy and slothful AI that eats edible vegetation directly in front of it.
